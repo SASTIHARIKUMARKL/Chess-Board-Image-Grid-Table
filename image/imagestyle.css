@@ -1,0 +1,12 @@
+body{
+    column-count: 3;
+    column-gap: 80px;
+
+}
+img{
+    height: 350px;
+    width: 500px;
+}
+div{
+    padding: 30px;
+}
